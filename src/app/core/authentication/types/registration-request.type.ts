@@ -1,0 +1,1 @@
+// RegistrationRequest interface declaration

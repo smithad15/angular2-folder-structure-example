@@ -1,0 +1,1 @@
+// CatSummaryHeaderComponent unit tests

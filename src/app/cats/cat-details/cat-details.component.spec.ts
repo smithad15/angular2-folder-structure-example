@@ -1,0 +1,1 @@
+// CatDetailsComponent unit tests

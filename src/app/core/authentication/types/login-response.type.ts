@@ -1,0 +1,1 @@
+// LoginResponse interface declaration

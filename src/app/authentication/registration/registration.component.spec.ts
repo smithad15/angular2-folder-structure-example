@@ -1,0 +1,1 @@
+// RegistrationComponent unit tests

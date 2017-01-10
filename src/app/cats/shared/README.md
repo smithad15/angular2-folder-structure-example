@@ -1,0 +1,11 @@
+This folder should contain all common elements across the cats feature. This would include:
+- Components
+- Directives
+- Pipes
+- Services
+- Types
+- Redux elements
+  - actions
+  - epics
+  - reducers
+  - selectors

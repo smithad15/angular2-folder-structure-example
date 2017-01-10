@@ -1,0 +1,1 @@
+// RegistrationResponse interface declaration

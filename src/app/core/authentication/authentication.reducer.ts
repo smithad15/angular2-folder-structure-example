@@ -1,0 +1,1 @@
+// Authentication reducer declaration

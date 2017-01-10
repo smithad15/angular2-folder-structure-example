@@ -1,0 +1,1 @@
+// ResetPasswordResponse interface declaration

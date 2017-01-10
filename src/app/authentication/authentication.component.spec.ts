@@ -1,0 +1,1 @@
+// AuthenticationComponent unit tests

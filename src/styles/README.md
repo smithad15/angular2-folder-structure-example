@@ -1,0 +1,1 @@
+All CSS styles that are inteded to be loaded globally (not scoped to a component using `ViewEncapsulation`) should be placed in this folder. It is reccomended to import all files into a single entry file using `@import` statements for easier Webpack builds.

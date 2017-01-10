@@ -1,0 +1,1 @@
+// ForgotPasswordResponse interface declaration

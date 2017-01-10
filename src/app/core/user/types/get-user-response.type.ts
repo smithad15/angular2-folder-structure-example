@@ -1,0 +1,1 @@
+// GetUserResponse interface declaration
